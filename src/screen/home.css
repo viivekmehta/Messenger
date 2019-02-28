@@ -1,0 +1,22 @@
+.d1{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt3VrPiiiJyypCXuMdkl0ZOe6Zf4OWjoDPL8mnK27GskY4ODNTww");
+background-size: cover;
+    height:100vh;
+}
+
+
+
+.signupcolor{
+    background-color: chartreuse;
+    height:100vh;
+}
+
+.tablecolor{
+    background-color: greenyellow;
+}
+
+.loginbg
+{
+    background-color: blueviolet;
+    height : 100vh;
+}
