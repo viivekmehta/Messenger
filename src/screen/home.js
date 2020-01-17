@@ -45,12 +45,12 @@ class Home extends Component {
                 window.location.href = "/login";
             }
             else {
-                alert("Wrong Email Id and Password !! Please enter again !!");
+                alert("Wrong Email Id and Password !! Please enter again!!");
                 window.location.href = "/home";
             }
         }
         else {
-            alert("Wrong Email Id and Password !! Please enter again !!");
+            alert("Wrong Email Id and Password !! Please enter again!!");
             window.location.href = "/home";
         }
     }
