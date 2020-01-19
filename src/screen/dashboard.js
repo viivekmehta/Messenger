@@ -15,8 +15,8 @@ class DashBoard extends Component {
             cr: "",
             showResult: ""
         }
-        this.handleSelected = this.handleSelected.bind(this);
-        this.sentMessage = this.sentMessage.bind(this);
+         this.handleSelected = this.handleSelected.bind(this);
+         this.sentMessage = this.sentMessage.bind(this);
     }
 
     handleSelected = (e) => {
