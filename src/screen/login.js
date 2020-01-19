@@ -42,7 +42,7 @@ class Login extends Component {
                                 <center>
                                     <table border="2">
                                         <tr>
-                                            <th> Full Name : {this.state.currentValues.first} {this.state.currentValues.last}</th>
+                                            <th>Full Name : {this.state.currentValues.first} {this.state.currentValues.last}</th>
                                         </tr>
                                         <tr>
                                             <th> Gender : {this.state.currentValues.gender} </th>
