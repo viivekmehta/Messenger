@@ -89,7 +89,7 @@ class DashBoard extends Component {
                             <tr>
                                 <td>
                                     <center>
-                                        <textarea placeholder="Type here!!" onChange={this.sentMessage}></textarea><br />
+                                        <textarea placeholder="Type here !!" onChange={this.sentMessage}></textarea><br />
                                         <input type="button" value="Send" onClick={this.submitt} />
                                         <input type="button" value="Go to Home" onClick={this.submitt2} />
                                         <input type="button" value="Logout" onClick={this.doLogout} /> <br />
